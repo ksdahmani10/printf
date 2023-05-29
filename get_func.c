@@ -22,3 +22,4 @@ int (*get_func(char x))(va_list)
 	}
 	return (NULL);
 }
+
