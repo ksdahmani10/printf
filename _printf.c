@@ -3,7 +3,7 @@
 #include <stdlib.h>
 #include "main.h"
 #include <stddef.h>
-/**
+ /**
  * create printf functions
  * @format: 
  * return a num of char
