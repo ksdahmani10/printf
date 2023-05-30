@@ -5,6 +5,7 @@
 #include <stddef.h>
 /**
  * create printf functions
+ * @format: 
  * return a num of char
  */
 int _printf(const char *format, ...)
