@@ -2,9 +2,9 @@
 #define main_h
 #include <stdio.h>
 #include <stdarg.h>
-/**
-* main file
-*/
+ /**
+ * main file
+ */
 typedef struct specifier
 {
 	char *valid;
