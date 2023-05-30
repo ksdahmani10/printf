@@ -29,8 +29,8 @@ A custom _printf() for learning purposes was developed by cohort  #8 students Ni
 _printf() function format string is a character string, beginning and ending in its initial shift state, if any.
 =======
 A custom _printf() for learning purposes was developed by cohort  #14 students kawtar et salima.
-_printf() function format string is a character string, beginning and ending in its initial shift state, if any. 
->>>>>>> 1f2f5d38eb9fb81087b97d8019c199b29b66606c
+_printf() function format string is a character string, beginning and ending in its initial shift state, if any.
+>>>>>>> 1f2f54565876jfjyr6587606c
 These arguments are placed using the percentage '%' operator
 
 .SS Compilation
