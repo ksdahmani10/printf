@@ -2,7 +2,7 @@
 #define main_h
 #include <stdio.h>
 #include <stdarg.h>
-/** 
+/**
 * main file
 */
 typedef struct specifier
