@@ -24,7 +24,7 @@ int _printf(const char *[FORMAT], ...);
 
 
 The printf function sends formatted output to stdout.
-A custom _printf() for learning purposes was developed by cohort  #8 students Nicks and Mose Parsanka.
+A custom _printf() for learning purposes was developed by cohort  #14 students kawtar et salima.
 _printf() function format string is a character string, beginning and ending in its initial shift state, if any. 
 These arguments are placed using the percentage '%' operator
 
@@ -53,7 +53,7 @@ symbol. i.e. "Hello this is %s from %d cohort". '...' is the variadic \
 
 .B Input
 .PP
-_printf("Hello this is %s from %d cohort\\n\\", 33);
+_printf("Hello this is %s from %d cohort\\n\\", 14);
 .PP
 .B Output
 .PP
